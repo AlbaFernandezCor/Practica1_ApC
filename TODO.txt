@@ -1,0 +1,25 @@
+Explicació i neteja de dades:
+- Abstract del DataSet
+- Explicar cada característica, que representa cada variable i els valors que pot tenir
+- Justificar Funció Objectiu
+- Netejar el Dataset (NaN values, asegurar que sigui numèric, canviar strings a numèric a ser possible). Explicar canvis fets
+
+
+Analisis del dataset:
+INICI ANALISI -->
+	Distribucions de les factures i del ibm, predominancia en el dataset (genere, fumadors) simples, mes endavant multivariades(?)
+	Mirar correlació entre dades (eliminar altament correlacioandes, veure com varia el dataset)
+	Trobar variables més importants respecte la funcio objectiu (P-Value, BIC, R-Squared, Variable Selection) REGRESSIÓ
+	Fer un PCA i veure quantitat d'infor de cada columna nova i quan aporta cada columna (altra mètode per trobar variables importants)
+	Grafiques entre diferents variables, veure diferents valors, mira outliers, ... Test d'hipotesis i bootstraps (?)
+
+
+
+Visualització del datatset:
+	
+
+
+
+Explicació dels resultats:
+
+
